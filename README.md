@@ -8,7 +8,7 @@
 </p>
 
 - 🌐 Check out my portfolio: **[mouadelhiloufi.me](https://www.mouadelhiloufi.me/)**
-- 🌱 I’m currently learning **Full-Stack Development**  
+- 🌱 I’m currently learning **Spring Boot & Angular** 
 - 💬 Ask me about **Front-end, Back-end & Databases**  
 - 📫 How to reach me: **mouad.elhiloufi4@gmail.com**  
 - ⚡ Fun fact: **I love building creative web projects**  

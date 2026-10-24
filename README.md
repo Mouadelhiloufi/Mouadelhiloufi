@@ -17,6 +17,7 @@
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zakariakh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mouad-el-hiloufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akaria-kharroub" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/muadhlf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muadhlf" height="30" width="40" /></a>
 </p>
 
 <br clear="all" />
